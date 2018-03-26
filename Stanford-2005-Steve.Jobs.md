@@ -1,12 +1,12 @@
 ---
 Who: Steve Jobs
-What: Stay Hungry, Stay Foolish
 When: June 12, 2005
 Where: Stanford University
-Why: Commencement Speech
 ---
 
-# Stay Hungry, Stay Foolish [🔈](https://www.youtube.com/watch?v=UF8uR6Z6KLc) 
+# Stay Hungry, Stay Foolish [🗣](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+
+> Source: https://news.stanford.edu/news/2005/june15/jobs-061505.html
 
 I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories.
 

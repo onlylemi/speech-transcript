@@ -4,7 +4,7 @@ When: May 27, 2015
 Where: Harvard University
 ---
 
-# I, too, battled self-doubt [🗣](https://www.youtube.com/watch?v=jDaZu_KEMCY)
+# I, too, battled self-doubt
 
 > Source: https://news.harvard.edu/gazette/story/2015/05/portman-i-too-battled-self-doubt/
 

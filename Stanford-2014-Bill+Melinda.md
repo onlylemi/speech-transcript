@@ -4,7 +4,7 @@ When: June 15, 2014
 Where: Stanford University
 ---
 
-# Let your heart break [🗣](https://www.youtube.com/watch?v=wug9n5Atk8c)
+# Let your heart break
 
 > Source: https://news.stanford.edu/news/2014/june/gates-commencement-remarks-061514.html
 

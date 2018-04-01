@@ -4,7 +4,7 @@ When: June 12, 2005
 Where: Stanford University
 ---
 
-# Stay Hungry, Stay Foolish [🗣](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+# Stay Hungry, Stay Foolish
 
 > Source: https://news.stanford.edu/news/2005/june15/jobs-061505.html
 

@@ -4,7 +4,7 @@ When: June 5, 2008
 Where: Harvard University
 ---
 
-# The Fringe Benefits of Failure, and the Importance of Imagination [🗣](https://www.youtube.com/watch?v=UibfDUPJAEU)
+# The Fringe Benefits of Failure, and the Importance of Imagination
 
 > Source: https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech/
 

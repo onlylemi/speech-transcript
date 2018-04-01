@@ -4,7 +4,7 @@ When: May 25, 2017
 Where: Harvard University
 ---
 
-# Mark Zuckerberg's Commencement address at Harvard [🗣](https://www.youtube.com/watch?v=BmYv8XGl-YU)
+# Mark Zuckerberg's Commencement address at Harvard
 
 > Source: https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/
 

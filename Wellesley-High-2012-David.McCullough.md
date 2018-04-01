@@ -4,7 +4,7 @@ When: June 7, 2012
 Where: Wellesley High School
 ---
 
-# You are not special [🗣](https://www.youtube.com/watch?v=_lfxYhtf8o4)
+# You are not special
 
 Dr. Wong, Dr. Keough, Mrs. Novogroski, Ms. Curran, members of the board of education, family and friends of the graduates, ladies and gentlemen of the Wellesley High School class of 2012, for the privilege of speaking to you this afternoon, I am honored and grateful.  Thank you.
 

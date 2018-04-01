@@ -4,7 +4,7 @@ When: May 16, 2014
 Where: University of New Hampshire
 ---
 
-# Discourages Self-Doubt [🗣](https://www.youtube.com/watch?v=TLwsrVVgeQs)
+# Discourages Self-Doubt
 
 Thank you President Huddleston, distinguished guests, honored faculty, and parents…but especially thank you to the University of New Hampshire’s graduating class of 2014. It’s so fabulous to be back. I’ve already partied at the Field House, at Murkland, at the Alumni Center and the Presidents place…just like old times. I first came to this campus when I was just 14 and my older cousin Mark was starting as a freshman. I sat on a bench in front of Thompson Hall and I thought – this is what college is supposed to feel like. Mark paved the way for my older sister to come here, then me, then my younger cousin Alex…who met his wife here. So my family has deep roots here and deeper debt.
 

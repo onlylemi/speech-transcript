@@ -4,7 +4,7 @@ When: May 15, 2004
 Where: University of Wisconsin
 ---
 
-# [🗣](https://www.youtube.com/watch?v=TLwsrVVgeQs)
+# 
 
 > Source: https://news.wisc.edu/spring-commencement-transcript-of-address-by-bradley-whitford/
 

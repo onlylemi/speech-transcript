@@ -4,7 +4,7 @@ When: May 16, 2014
 Where: University of Texas at Austin
 ---
 
-# Find Courage to Change the World [🗣](https://www.youtube.com/watch?v=yaQZFhrW0fU)
+# Find Courage to Change the World
 
 > Source: https://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world
 

@@ -4,7 +4,7 @@ When: May 30, 2013
 Where: Harvard University
 ---
 
-# The key to life is to develop an internal moral, emotional G.P.S. [🗣](https://www.youtube.com/watch?v=GMWFieBGR7c)
+# The key to life is to develop an internal moral, emotional G.P.S.
 
 > Source: https://news.harvard.edu/gazette/story/2013/05/winfreys-commencement-address/
 

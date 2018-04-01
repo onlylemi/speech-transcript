@@ -1,5 +1,5 @@
 ---
-Who: Winfrey
+Who: Oprah Winfrey
 When: May 30, 2013
 Where: Harvard University
 ---
